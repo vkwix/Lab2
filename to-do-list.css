@@ -15,3 +15,6 @@ margin: 50px auto;
     ol{
         margin: 12px;
     }
+    body{
+        background-color: lightgrey;
+    }
